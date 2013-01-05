@@ -1,0 +1,17 @@
+../pyelasticsearch/__init__.py
+../pyelasticsearch/client.py
+../pyelasticsearch/downtime.py
+../pyelasticsearch/exceptions.py
+../pyelasticsearch/tests.py
+../pyelasticsearch/__init__.pyc
+../pyelasticsearch/client.pyc
+../pyelasticsearch/downtime.pyc
+../pyelasticsearch/exceptions.pyc
+../pyelasticsearch/tests.pyc
+./
+dependency_links.txt
+not-zip-safe
+PKG-INFO
+requires.txt
+SOURCES.txt
+top_level.txt
